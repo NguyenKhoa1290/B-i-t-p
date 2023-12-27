@@ -14,4 +14,6 @@ Nhom 9:
     - P4:22-28
   + Làm phần nào vote qua mess nhé.
   + Làm phần nào bắn lên drive rồi gửi qua mess (Hạn tối thứ 6)
-    ***Không làm cũng được, tải file bên release về rồi đọc hiểu, PHẢI HIỂU NHÉ :))
+
+    ***Không làm cũng được, tải file bên releases về rồi đọc hiểu, PHẢI HIỂU NHÉ :))
+Chỗ releases bấm vào dòng màu xanh, rồi bấm vô file nhom9.rar, nó tự về :))
